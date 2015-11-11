@@ -1,0 +1,160 @@
+body{
+
+	background-color: white;
+	height: 2000px;
+
+
+}
+
+.container{
+
+	height: 2000px;
+    width: 900px;
+    position: relative;
+    left: 270px;
+    top: 200px;
+
+}
+
+.brain{
+
+	width: 400px;
+    height: 400px;
+    background: black;
+    -moz-border-radius: 50px;
+    -webkit-border-radius: 50px;
+    border-radius: 200px;
+    position: absolute;
+    left: 220px;
+}
+
+.abdomen{
+
+    position: absolute;
+    height: 700px;
+    width: 450px;
+    top: 400px;
+    left: 190px;
+    background-color: black;
+    
+}
+
+
+
+.arm.one{
+
+	height: 600px;
+    width: 150px;
+    position: absolute;
+    background-color: black;
+    transform: rotate(24deg);
+    top: 405px;
+    left: 61px;
+    z-index: -1;
+}
+
+.arm.two{
+
+	height: 600px;
+    width: 150px;
+    position: absolute;
+    background-color: black;
+    transform: rotate(-24deg);
+    top: 405px;
+    left: 618px;
+    z-index: -1;
+}
+
+.leg.one{
+
+	height: 600px;
+    width: 203px;
+    position: absolute;
+    background-color: black;
+    transform: rotate(4deg);
+    top: 1004px;
+    left: 176px;
+}
+
+.leg.two{
+
+	height: 600px;
+    width: 203px;
+    position: absolute;
+    background-color: black;
+    transform: rotate(-4deg);
+    top: 1004px;
+    left: 451px
+}
+
+
+.line.one{
+
+	color: #739BBC;
+    z-index: 1;
+    font-size: 26px;
+    height: 40px;
+    position: absolute;
+    width: 250px;
+    text-align: justify;
+    left: 70px;
+    top: 80px;
+}
+
+.line.two{
+
+	color: #739BBC;
+    z-index: 1;
+    font-size: 20px;
+    height: 40px;
+    position: absolute;
+    width: 250px;
+    text-align: justify;
+    left: 160px;
+    top: 80px;
+
+}
+
+.line.three{
+
+	color: #739BBC;
+    z-index: 1;
+    font-size: 37px;
+    height: 40px;
+    position: absolute;
+    width: 398px;
+    text-align: justify;
+    left: 27px;
+    top: 384px;
+}
+
+span{
+
+    color: #B683AB
+}
+
+
+        a:nth-child(1){
+
+            position: absolute;
+            top: 0px
+         right:712px;
+        }
+
+        a:nth-child(2){
+
+
+          position: absolute;
+          top: 0px;
+          right:80px;
+
+        }
+
+        a:nth-child(3){
+
+    
+          position: absolute;
+          top: 0px;
+         left: 80px;
+        }
+        

@@ -1,0 +1,175 @@
+.line.one{
+
+	position: absolute;
+	top: 20px;
+	left: 400px;
+}
+
+.line.one-one{
+
+	position: relative;
+	top:-10px;
+}
+
+.line.two{
+
+	position: absolute;
+	left: 100px;
+	top: 90px;
+
+}
+
+.it{
+
+	position: absolute;
+	left: 600px;
+	top: 150px;
+}
+
+.s-one{
+
+	position: absolute;
+	left: 660px;
+	top: 200px;
+}
+
+.p{
+
+	position: absolute;
+	left: 670px;
+	top: 210px;
+}
+
+.i{
+
+	position: absolute;
+	left: 650px;
+	top: 250px;
+}
+
+.l-one{
+
+	position: absolute;
+	left: 659px;
+	top: 270px;
+}
+
+.l-two{
+
+	position: absolute;
+	left: 690px;
+	top: 280px;
+}
+
+.s-two{
+
+	position: absolute;
+	left: 670px;
+	top: 300px;
+}
+
+.on{
+
+	position: absolute;
+	left: 700px;
+	top:380px;
+}
+
+.the{
+
+	position: absolute;
+	left: 650px;
+	top: 450px;
+}
+
+.floor{
+
+	position: absolute;
+	left: 600px;
+	top: 560px;
+}
+
+.line.three{
+
+	position: absolute;
+    left: 700px;
+    top: 900px;
+}
+
+.line.four{
+	position: relative;
+	top: 990px;
+	left: 400px;
+
+}
+
+.br{
+
+	position: absolute;
+	left: 20px;
+}
+
+.e{
+	position: absolute;
+	left: 90px;
+}
+
+.aks{
+
+
+
+	position: absolute;
+	left: 200px;
+}
+
+.line.four-two{
+
+	position: absolute;
+	left: 225px;
+}
+
+.line.five.container{
+
+	position: relative;
+    height: 100px;
+    width: 69px;
+    left: 500px;
+    top: 1200px;
+    background-color: transparent;
+}
+
+.line.six{
+
+	position: absolute;
+    left: 10px;
+    top: 1500px;
+}
+
+		a:nth-child(1){
+
+    		position: absolute;
+    		top: 0px
+   		 right:712px;
+		}
+
+		a:nth-child(2){
+
+
+  		  position: absolute;
+  		  top: 0px;
+  		  right:80px;
+
+		}
+
+		a:nth-child(3){
+
+    
+  		  position: absolute;
+  		  top: 0px;
+  		 left: 80px;
+		}
+		
+
+
+
+

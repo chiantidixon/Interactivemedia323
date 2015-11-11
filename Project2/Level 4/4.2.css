@@ -1,0 +1,41 @@
+
+
+body{
+
+	text-align: right;
+	left: 350px;
+	position: fixed;
+	margin-top: 300px;
+	font-family: Palatino;
+	text-transform: uppercase;
+
+}
+
+span{
+
+	text-transform: lowercase;
+}
+
+		a:nth-child(1){
+
+    		position: absolute;
+    		top: 0px
+   		 right:712px;
+		}
+
+		a:nth-child(2){
+
+
+  		  position: absolute;
+  		  top: 0px;
+  		  right:80px;
+
+		}
+
+		a:nth-child(3){
+
+    
+  		  position: absolute;
+  		  top: 0px;
+  		 left: 80px;
+		}

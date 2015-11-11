@@ -1,0 +1,137 @@
+body{
+
+	height: 600px;
+
+}
+
+.header{
+
+	height: 82px;
+    width: 1500px;
+    background-color: #BCE2D3;
+    top: -8px;
+    left: -9px;
+    position: relative;
+}
+
+.about{
+
+	color: white;
+    font-size: x-large;
+    bottom: 10px;
+    position: absolute;
+    left: 20px;
+
+}
+
+.love{
+
+	color: white;
+    font-size: 71px;
+    bottom: 0px;
+    position: absolute;
+    left: 500px;
+
+}
+
+.level-one{
+
+	height: 149px;
+    width: 1500px;
+    background-color: #ADB5DB;
+    position: relative;
+    top: -8px;
+    left: -8px;
+    
+}
+
+.text-one{
+
+	color: white;
+    font-size: 50px;
+    bottom: 20px;
+    position: absolute;
+    left: 600px;
+    font-style: oblique;
+}
+
+.level-two{
+
+	height: 149px;
+    width: 1500px;
+    background-color: #88A8C9;
+    position: relative;
+    top: -8px;
+    left: -8px;
+}
+
+.text-two{
+
+	color: white;
+    font-size: 50px;
+    bottom: 20px;
+    position: absolute;
+    left: 600px;
+    font-style: oblique;
+}
+
+
+.level-three{
+	height: 149px;
+    width: 1500px;
+    background-color: #739BBC;
+    position: relative;
+    top: -8px;
+    left: -8px;
+}
+
+.text-three{
+
+	color: white;
+    font-size: 50px;
+    bottom: 20px;
+    position: absolute;
+    left: 584px;
+    font-style: oblique;
+}
+
+.level-four{
+
+	height: 149px;
+    width: 1500px;
+    background-color: #B683AB;
+    position: relative;
+    top: -8px;
+    left: -8px;
+
+}
+
+.text-four{
+
+	color: white;
+    font-size: 50px;
+    bottom: 20px;
+    position: absolute;
+    left: 590px;
+    font-style: oblique;
+}
+
+.level-five{
+
+	height: 149px;
+    width: 1500px;
+    background-color: #A889B6;
+    position: relative;
+    top: -8px;
+    left: -8px;
+}
+
+.text-five{
+
+	color: white;
+    font-size: 50px;
+    bottom: 20px;
+    position: absolute;
+    left: 593px;
+    font-style: oblique;
+}

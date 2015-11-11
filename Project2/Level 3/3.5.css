@@ -1,0 +1,73 @@
+body{
+
+	position: relative;
+	width: 1600px;
+}
+
+.line.one{
+
+	position: absolute;
+    left: 200px;
+    top: 300px;
+}
+
+.line.two{
+
+	position: absolute;
+    left: 200px;
+    top: 500px;
+
+}
+
+.line.three{
+
+	position: absolute;
+    left: 800px;
+    top: 300px;
+}
+
+.line.four{
+
+	position: absolute;
+    left: 800px;
+    top: 491px;
+}
+
+.line.five{
+
+	position: absolute;
+    left: 1350px;
+    top: 300px;
+}
+
+.line.six{
+
+	position: absolute;
+    left: 1350px;
+    top: 500px;
+}
+
+
+        a:nth-child(1){
+
+            position: absolute;
+            top: 0px
+         right:712px;
+        }
+
+        a:nth-child(2){
+
+
+          position: absolute;
+          top: 0px;
+          right:80px;
+
+        }
+
+        a:nth-child(3){
+
+    
+          position: absolute;
+          top: 0px;
+         left: 80px;
+        }

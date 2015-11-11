@@ -1,0 +1,99 @@
+
+.wave{
+
+	position: relative;
+	height: 300px;
+	width:1500px;
+}
+
+.bottom{
+
+	position: absolute;
+	bottom: 0px;
+	left: 1049px;
+}
+
+.middle-one{
+
+	position: absolute;
+	left: 1060px;
+	bottom: 10px;
+}
+
+.middle-two{
+
+	position: absolute;
+	left: 1065px;
+	bottom: 20px;
+}
+
+.middle-three{
+
+	position: absolute;
+	left: 1066px;
+	bottom: 30px;
+}
+
+.middle-four{
+
+	position: absolute;
+	left: 1100px;
+	bottom: 40px;
+
+}
+
+.middle-five{
+
+	position: absolute;
+	left: 1120px;
+	bottom: 50px;
+}
+
+.top-one{
+
+	position: absolute;
+	left: 1150px;
+	bottom: 60px;
+
+}
+
+.top-two{
+
+	position: absolute;
+	left: 1200px;
+	bottom: 70px;
+
+}
+
+.top-three{
+
+	position: absolute;
+	left: 1225px;
+	bottom: 80px;
+}
+
+
+		a:nth-child(1){
+
+    		position: absolute;
+    		top: 0px
+   		 right:712px;
+		}
+
+		a:nth-child(2){
+
+
+  		  position: absolute;
+  		  top: 0px;
+  		  right:80px;
+
+		}
+
+		a:nth-child(3){
+
+    
+  		  position: absolute;
+  		  top: 0px;
+  		 left: 80px;
+		}
+

@@ -1,0 +1,60 @@
+body{
+
+	height: 250px;
+	width: 2000px;
+}
+
+.first{
+
+	font-family: Gill Sans-Serif;
+	text-transform: uppercase;
+	font-size: -webkit-xxx-large;
+	text-align: justify;
+	position: absolute;
+}
+
+span{
+
+	font-family: Gill Sans-Serif;
+	text-transform: uppercase;
+	font-size: xx-large;
+	text-align: justify;
+	position: absolute;
+	left: 1000px;
+    width: 600px;
+}
+
+.last{
+
+	font-family: Gill Sans-Serif;
+	text-transform: uppercase;
+	font-size: x-large;
+	text-align: justify;
+	position: absolute;
+	left: 1620px;
+    width: 400px;
+
+}
+		a:nth-child(1){
+
+    		position: absolute;
+    		top: 0px
+   		 right:712px;
+		}
+
+		a:nth-child(2){
+
+
+  		  position: absolute;
+  		  top: 0px;
+  		  right:80px;
+
+		}
+
+		a:nth-child(3){
+
+    
+  		  position: absolute;
+  		  top: 0px;
+  		 left: 80px;
+		}

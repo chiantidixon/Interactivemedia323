@@ -1,0 +1,67 @@
+body{
+
+	font-family: sans-serif;
+}
+
+.container{
+
+	height: 377px;
+	width: 220px;
+	text-align: justify;
+	line-height: 200%;
+}
+
+.crystals {
+	
+	letter-spacing: 4px;
+	font-weight: bolder;
+	
+}
+
+.second {
+	
+	letter-spacing: 4px;
+	font-weight: bolder;
+	
+}
+
+.breaks {
+	
+	letter-spacing: 4px;
+	font-weight: bolder;
+	
+}
+
+.talking {
+	
+	letter-spacing: 4px;
+	font-weight: bolder;
+	
+}
+
+
+		a:nth-child(1){
+
+    		position: absolute;
+    		top: 0px
+   		 right:712px;
+		}
+
+		a:nth-child(2){
+
+
+  		  position: absolute;
+  		  top: 0px;
+  		  right:80px;
+
+		}
+
+		a:nth-child(3){
+
+    
+  		  position: absolute;
+  		  top: 0px;
+  		 left: 80px;
+		}
+		
+	

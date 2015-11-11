@@ -1,0 +1,68 @@
+body{
+
+	font-family:serif;
+	font-variant: small-caps;
+	text-align: center;
+
+}
+
+.text.container{
+
+	height: 500px;
+	width: 300px;
+	position: relative;
+	left: 350px;
+	top: 900px;
+}
+
+.one{
+
+	position: fixed;
+    bottom: 0;
+    right: 0;
+    width: 300px;
+    border: 3px solid #73AD21;
+	
+
+}
+.two{
+
+	position: fixed;
+    bottom: 0;
+    right: 0;
+    width: 300px;
+    border: 3px solid #73AD21;
+
+}
+
+
+
+		a:nth-child(1){
+
+    		position: absolute;
+    		top: 0px
+   		 right:712px;
+		}
+
+		a:nth-child(2){
+
+
+  		  position: absolute;
+  		  top: 0px;
+  		  right:80px;
+
+		}
+
+		a:nth-child(3){
+
+    
+  		  position: absolute;
+  		  top: 0px;
+  		 left: 80px;
+		}
+		
+
+
+
+
+					
