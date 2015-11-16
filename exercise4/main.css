@@ -72,33 +72,164 @@ body {
 .coffee{
 	width: 200px;
 	height: 100px;
-	background: red;
+	background: rgba(144, 89, 57, 0.94);
 	-moz-border-radius: 100px / 50px;
 	-webkit-border-radius: 100px / 50px;
 	border-radius: 100px / 50px;
+	left: 22px;
+    top: 12px;
 	
 }
 
 .handle{
 
-	width: 80px;
-  	height: 80px;
-	border-radius: 90px 90px 0 0;
-     -moz-border-radius: 90px 90px 0 0;
-     -webkit-border-radius: 90px 90px 0 0;
-      transform: rotate(-100deg);
-      background:green;
+	width: 230px;
+    height: 119px;
+    border-radius: 90px 90px 0 0;
+    -moz-border-radius: 90px 90px 0 0;
+    -webkit-border-radius: 90px 90px 0 0;
+    transform: rotate(-95deg);
+     background: #C4BEAE;
+     top: 234px;
+    left: -110px;
 }
 
 .handle-hole{
 
-	width: 50px;
-  	height: 45px;
-	border-radius: 90px 90px 0 0;
-     -moz-border-radius: 90px 90px 0 0;
-     -webkit-border-radius: 90px 90px 0 0;
-      transform: rotate(10deg);
-      left: 15px;
-      bottom:10px;
-      background:red;
+	 width: 115px;
+    height: 55px;
+    border-radius: 90px 90px 0 0;
+    -moz-border-radius: 90px 90px 0 0;
+    -webkit-border-radius: 90px 90px 0 0;
+    transform: rotate(0deg);
+    left: 61px;
+    bottom: 16px;
+    background: #3E4B5E;
 }
+
+
+
+
+
+
+
+
+.canvas.two{
+
+	position: relative;
+	background: white;
+    bottom: -69px;
+    width: 900px;
+    height: 556px;
+}
+
+.canvas.yellow{
+
+	position: absolute;
+	background: rgb(255, 252, 173);
+    width: 260px;
+    left: 0px;
+    bottom:-100px;
+    height: 556px;
+}
+
+.object.doorknob{
+
+	height: 400px;
+    width: 430px;
+    background: transparent;
+    position: absolute;
+    left: 116px;
+    bottom: 54px;
+}
+
+.object.doorknob-bolt{
+
+	width: 195px;
+    height: 208px;
+    background: rgba(115, 100, 57, 0.94);
+    -moz-border-radius: 50px;
+    -webkit-border-radius: 50px;
+    border-radius: 100px;
+    position: absolute;
+    right: 0px;
+    top: 90px;
+}
+
+.object.doorknob-pole{
+
+	height: 99px;
+    width: 190px;
+    border-radius: 44px / 45px;
+    background: rgb(115, 100, 57);
+    position: absolute;
+    right: 63px;
+    top: 146px;
+}
+
+.object.doorknob-handle{
+
+	width: 198px;
+    height: 194px;
+    background: #827142;
+    border-radius: 72px / 82px;
+    position: absolute;
+    right: 116px;
+    top: 93px;
+
+}
+
+.object.doorknob-circle{
+
+	width: 158px;
+    height: 160px;
+    background: rgb(140, 122, 71);
+    -moz-border-radius: 50px;
+    -webkit-border-radius: 50px;
+    border-radius: 100px;
+    position: absolute;
+    right: 48px;
+    top: 14px;
+
+}
+
+.object.doorknob-two{
+
+	width: 43px;
+    height: 46px;
+    background: rgb(115, 100, 57);
+    -moz-border-radius: 50px;
+    -webkit-border-radius: 50px;
+    border-radius: 100px;
+    position: absolute;
+    right: 69px;
+    top: 58px;
+}
+
+.object.doorknob-lock{
+
+	height: 10px;
+    width: 44px;
+    border-radius: 44px / 45px;
+    background: rgb(130, 116, 78);
+    position: absolute;
+    right: 70px;
+    top: 76px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
